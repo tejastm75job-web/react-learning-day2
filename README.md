@@ -13,8 +13,6 @@
 - `App.js`
 - `App.css`
 
-## 💻 Screenshot / Preview:
-(You can upload a screenshot here if you have one)
 
 ## 📝 Code Snippet Highlight:
 ```jsx
